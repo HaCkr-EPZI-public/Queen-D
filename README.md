@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/HaCkr-EPZI-public/Queen-D"><img title="Developer" src="https://img.shields.io/badge/Model-Alien%20Alfa-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/HaCkr-EPZI-public/Queen-D"><img title="Developer" src="https://img.shields.io/badge/Model-Asmodeus%20Epzi-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <br><br><br>
 <p align="center">
@@ -144,7 +144,7 @@ Now copy this url and change GITHUBID with your github username and click GO <br
   
   <br> <br>
   
-  ## ⚠️ FOR TERMUX/UBUNTU/SSH USER
+  ## ⚠️ FOR VPS/TERMUX/UBUNTU/SSH USER
 
 ```bash
 apt update && apt upgrade
@@ -173,10 +173,10 @@ $ npm start
   <!--
 # `CHANGE THESE SETTINGS`
 
-- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘉𝘖𝘛 𝘚𝘌𝘚𝘚𝘐𝘖𝘕      [★彡[ʜᴇʀᴇ]彡★](https://github.com/HaCkr-EPZI-public/AlienAlfaBot/blob/master/session.json#L1)
-- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘖𝘞𝘕𝘌𝘙 𝘕𝘜𝘔𝘉𝘌𝘙    [★彡[ʜᴇʀᴇ]彡★](https://github.com/HaCkr-EPZI-public/AlienAlfaBot/blob/master/setting/setting.json#L9)
-- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘖𝘞𝘕𝘌𝘙 𝘕𝘈𝘔𝘌      [★彡[ʜᴇʀᴇ]彡★](https://github.com/HaCkr-EPZI-public/AlienAlfaBot/blob/master/setting/setting.json#L10)
-- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘉𝘖𝘛 𝘕𝘈𝘔𝘌        [★彡[ʜᴇʀᴇ]彡★](https://github.com/HaCkr-EPZI-public/AlienAlfaBot/blob/master/setting/setting.json#L11)
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘉𝘖𝘛 𝘚𝘌𝘚𝘚𝘐𝘖𝘕      [★彡[ʜᴇʀᴇ]彡★](https://github.com/HaCkr-EPZI-public/Queen-D/blob/main/session.json#L1)
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘖𝘞𝘕𝘌𝘙 𝘕𝘜𝘔𝘉𝘌𝘙    [★彡[ʜᴇʀᴇ]彡★](https://github.com/HaCkr-EPZI-public/QUeen-D/blob/main/setting/setting.json#L9)
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘖𝘞𝘕𝘌𝘙 𝘕𝘈𝘔𝘌      [★彡[ʜᴇʀᴇ]彡★](https://github.com/HaCkr-EPZI-public/Queen-D/blob/main/setting/setting.json#L10)
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘉𝘖𝘛 𝘕𝘈𝘔𝘌        [★彡[ʜᴇʀᴇ]彡★](https://github.com/HaCkr-EPZI-public/Queen-D/blob/main/setting/setting.json#L11)
   
   
 -->
@@ -221,14 +221,14 @@ heroku/nodejs
 
 ## ⚠️ FOR WINDOWS/RDP USERS
 
-* Download & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
-* Download & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
-* Download & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Don't Forget to Add FFmpeg to the PATH environment variable**)
+* Download & Instal Git [`Click Here`](https://git-scm.com/downloads)
+* Download & Instal NodeJS [`Click Here`](https://nodejs.org/en/download)
+* Download & Instal FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget to Add FFmpeg to the PATH environment variable**)
 
 
 ```bash
 git clone https://github.com/HaCkr-EPZI-public/Queen-D
-cd Hisoka-Morou
+cd Queen-D
 npm install
 ```
 <!-->
@@ -259,7 +259,7 @@ If you are concerned about security, you can install it on your own computer. If
 ```
 Due to Bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Alien-Alfa or X-Asena executives do not accept responsibility.
+Absolutely, Queen-D , AAlien Alfa or X-Asena executives do not accept responsibility.
 By establishing this Software, you are deemed to have accepted these responsibilities.
 ```
   
