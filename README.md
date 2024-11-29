@@ -82,7 +82,7 @@
 <h3 align="center">Contact Me:</h3>
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kyrie_baran" height="30" width="40" /></a>
-<a href="https://instagram.com/_the_soul_rider_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/yuren.sasanka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 
 <br><br>
@@ -266,7 +266,7 @@ By establishing this Software, you are deemed to have accepted these responsibil
 ## ⚠️ Developers
   <div align="center">
   
-| [![Asmodeus Epzi](https://i.ibb.co/7yNfxp6/IMG-20240601-WA0013.jpg?size=100)](https://github.com/HaCkr-EPZI-public/) |[![Neeraj-x0](https://github.com/Neeraj-x0.png?size=200)](https://github.com/Neeraj-x0)|
+| [![Asmodeus Epzi](https://i.ibb.co/7yNfxp6/IMG-20240601-WA0013.jpg)](https://github.com/HaCkr-EPZI-public/) |[![Neeraj-x0](https://github.com/Neeraj-x0.png)](https://github.com/Neeraj-x0)|
 |----|----|
 | [꧁𓊈𒆜Asᴍᴏᴅᴇᴜs Eᴘᴢɪ 𒆜𓊉꧂](http://217.77.14.57:5000/) | [꧁𓊈𒆜ＮＥＥＲＡＪ－ｘＯ𒆜𓊉꧂](https://github.com/Neeraj-x0) |
 |  𒆜 ReBase, Modules, updates 𒆜 |  𒆜 Base, Modules, Fixes 𒆜 |
